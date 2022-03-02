@@ -21,7 +21,7 @@ defmodule Lz4.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      # {:lz4b, "~> 0.0.8"}
+       {:lz4b, "~> 0.0.8"}
       # {:dep_from_hexpm, "~> 0.3.0"},
       # {:lz4b, git: "https://github.com/kafka4beam/lz4b.git", branch: "fix-wgeet-compatibility"}
     ]
